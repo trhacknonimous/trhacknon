@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/darknethaxor/"><img title="TRHACKNON" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200"></a></p><br>
+<p align="center"><a href="https://github.com/trhacknonimous/trhacknon/"><img title="TRHACKNON" src="https://github.com/trhacknonimous/trhacknon/blob/master/cover_28%7E2.jpg" height="200" width="200"></a></p><br>
 
 ## Support:
 
