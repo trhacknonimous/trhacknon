@@ -22,7 +22,7 @@ Note: Kali-linux & Parrot OS user must be use root terminal.
 
 ## Screenshot
 
-<p> <a href="#"><img title="TRHACKNON" src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-131739-picsay.png">
+<p> <a href="#"><img title="TRHACKNON" src="https://github.com/trhacknonimous/trhacknon/blob/master/Screenshot_20220109_034611_com.termux.jpg">
 </a> 
 </p> 
 <br>
