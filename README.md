@@ -12,8 +12,8 @@ Note: Kali-linux & Parrot OS user must be use root terminal.
 * `apt upgrade -y` 
 * `apt install git -y`
 * `cd $HOME`
-* `git clone https://github.com/trhacknonimous/trhacknonphish.git` 
-* `cd trhacknonphish` 
+* `git clone https://github.com/trhacknonimous/trhacknon.git` 
+* `cd trhacknon` 
 * `chmod +x setup.sh` 
 * `bash setup.sh` 
 
